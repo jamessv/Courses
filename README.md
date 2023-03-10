@@ -1,7 +1,7 @@
 # Courses
 Own section / 2
 
-#1. Front-end Development
+# 1. Front-end Development
 
 Frontend Framework/library
 
@@ -21,10 +21,10 @@ Javascript
 
 
 
-#2. DevOps
+# 2. DevOps
 
 
-#3. Backend
+# 3. Backend
 
 Nodejs
 
