@@ -1,5 +1,5 @@
 # Courses
-Own section 
+Own section / 2
 1. Front-end Development
 
 Frontend Framework/library
